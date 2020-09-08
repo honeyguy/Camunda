@@ -1,0 +1,3 @@
+com\camunda\demo\SimpleDemo\CamundaBpmProcessApplication.class
+com\camunda\demo\SimpleDemo\CheckWeatherDelegate.class
+com\camunda\demo\SimpleDemo\LoggerDelegate.class
